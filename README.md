@@ -1,6 +1,6 @@
 # STA 5107 Computational Methods in Statistics II
 
-This folder contains the code files for the programming components of each homework assignment.  
+This folder contains the MATLAB code files for the programming components of each homework assignment.  
 The topics covered in each homework are summarized below.
 
 | Homework | Topic |
